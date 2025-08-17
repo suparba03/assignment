@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    float num1,num2,sum;
+    float num1,num2,
     printf("Enter a number ");
     scanf("%f",&num1);
     printf("Enter a number ");
@@ -10,3 +10,4 @@ int main()
     printf("Sum=%.2f\n",sum);
     return 0;
 }
+
